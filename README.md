@@ -1,2 +1,2 @@
 # Proiect-IP-2021-2022
-Proiect realizat in C++. Prelucrarea unui pseudocod si realizarea unei diagrame Nassi-Schneiderman aferenta acestuia.
+Project made in C++. Processing a pseudocode and building a Nassi-Schneiderman diagram based on it.
